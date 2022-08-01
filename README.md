@@ -11,13 +11,13 @@ This repository contains my code contributed to a group data science project inv
 
 
 _________________________________________________________________
- Layer (type)                Output Shape              Param #   
+ Layer (type) |               Output Shape      |        Param #   
 =================================================================
- rescaling_1 (Rescaling)     (32, 96, 96, 3)           0         
+ rescaling_1 (Rescaling)  |   (32, 96, 96, 3)      |     0         
                                                                  
- flatten_1 (Flatten)         (32, 27648)               0         
+ flatten_1 (Flatten)     |    (32, 27648)         |      0         
                                                                  
- dense_10 (Dense)            (32, 128)                 3539072   
+ dense_10 (Dense)        |    (32, 128)           |      3539072   
                                                                  
  dense_11 (Dense)            (32, 96)                  12384     
                                                                  
