@@ -11,6 +11,8 @@ This repository contains my code contributed to a group data science project inv
 
 
 _________________________________________________________________
+ **MODEL SUMMARY**
+ 
  Layer (type) |               Output Shape      |        Param #   
 =================================================================
  rescaling_1 (Rescaling)  |   (32, 96, 96, 3)      |     0         
