@@ -111,6 +111,6 @@ BEST EPOCH FOR OPTIMAL MODEL IS 14
 ![image](https://user-images.githubusercontent.com/98823082/182143729-a73f588b-d2cf-4489-a369-06fdd9813d93.png)
 
 ______________________________________________________________
-EVALUATE HYPERTUNED MODEL ON TEST DATA
+HYPERTUNED MODEL PERFORMANCE ON TEST DATA
 =================================================================
 loss: 0.5803 - accuracy: 0.7020
