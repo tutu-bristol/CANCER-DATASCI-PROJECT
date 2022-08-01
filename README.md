@@ -103,3 +103,10 @@ The hyperparameter search is complete. The optimal number of units in 9th densel
 layers is **33** and the optimal learning rate for the optimizer
 is 0.0001.
 
+
+
+______________________________________________________________
+BEST EPOCH FOR OPTIMAL MODEL IS 14
+=================================================================
+![image](https://user-images.githubusercontent.com/98823082/182143729-a73f588b-d2cf-4489-a369-06fdd9813d93.png)
+
