@@ -7,8 +7,9 @@ This repository contains my code contributed to a group data science project inv
 
 **Dataset: - PatchCamelyon (PCam) dataset (learn more: https://github.com/tutu-bristol/pcam)** 
 
+**Model: Artificial Neural Network (ANN), see information on layers within network below**
 
-**Model: Artificial Neural Network (ANN), see information on layers within network below **
+
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
