@@ -1,2 +1,7 @@
-# CANCER-DATASCI-PROJECT (Adetutu S., Samuel Downes, Becky P., Lois H.)
-This repository contains our code for our group data science project involving the use of a vast library of cancer image scans to train an AI algorithm that will help us to predict a negative or positive cancer diagnosis. 
+# Architecture of a Deep Neural Network for cancer detection in histopathologic scans of lymph node sections
+
+This repository contains my code contributed to a group data science project involving the use of the biggest dataset of cancer image scans to train an AI algorithm (Deep Neural Network) to predict a negative or positive cancer diagnosis. 
+
+Model
+Task: binary classification 
+Dataset: - PatchCamelyon (PCam) dataset (learn more: https://github.com/tutu-bristol/pcam) 
